@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IgorBulyzhenkov/goit-react-hw-02-feedback.git/static/css/main.8b0d3fca.css",
+    "main.js": "/IgorBulyzhenkov/goit-react-hw-02-feedback.git/static/js/main.7000393b.js",
+    "index.html": "/IgorBulyzhenkov/goit-react-hw-02-feedback.git/index.html",
+    "main.8b0d3fca.css.map": "/IgorBulyzhenkov/goit-react-hw-02-feedback.git/static/css/main.8b0d3fca.css.map",
+    "main.7000393b.js.map": "/IgorBulyzhenkov/goit-react-hw-02-feedback.git/static/js/main.7000393b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b0d3fca.css",
+    "static/js/main.7000393b.js"
+  ]
+}
